@@ -1,4 +1,4 @@
-﻿import React, { useRef } from "react";
+import React, { useRef } from "react";
 import { Sparkles, UploadCloud, FileText, ArrowRight, RefreshCw, AlertCircle } from "lucide-react";
 import { useAppDispatch, useAppSelector } from "../store";
 import {

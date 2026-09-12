@@ -1,4 +1,4 @@
-﻿import React from "react";
+import React from "react";
 import { ShieldCheck, Activity, Database, Sparkles, FileText, CheckCircle2 } from "lucide-react";
 import { useAppDispatch, useAppSelector } from "../store";
 import { setActiveTab } from "../store/complaintSlice";

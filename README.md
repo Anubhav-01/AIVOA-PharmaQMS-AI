@@ -1,4 +1,4 @@
-﻿# AIVOA — AI-Powered Customer Complaint Management System (Pharma QMS)
+# AIVOA — AI-Powered Customer Complaint Management System (Pharma QMS)
 
 > Enterprise-grade Quality Management System (QMS) Customer Complaint & Risk Assessment Copilot for Pharmaceutical API & FDF Manufacturing. Built for the **AIVOA - Round 1 AI Product Engineer** assignment.
 

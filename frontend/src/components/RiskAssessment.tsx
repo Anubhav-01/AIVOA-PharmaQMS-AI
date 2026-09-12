@@ -1,4 +1,4 @@
-﻿import React from "react";
+import React from "react";
 import { ShieldAlert, AlertCircle, AlertOctagon, CheckCircle2, TrendingUp, HelpCircle } from "lucide-react";
 import { useAppSelector } from "../store";
 

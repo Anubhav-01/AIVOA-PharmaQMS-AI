@@ -1,4 +1,4 @@
-﻿import React from "react";
+import React from "react";
 import { Copy, AlertTriangle, Layers } from "lucide-react";
 import { useAppSelector } from "../store";
 

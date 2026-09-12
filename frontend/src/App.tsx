@@ -1,4 +1,4 @@
-﻿import React, { useEffect } from "react";
+import React, { useEffect } from "react";
 import { Header } from "./components/Header";
 import { ComplaintIntake } from "./components/ComplaintIntake";
 import { ComplaintForm } from "./components/ComplaintForm";

@@ -1,4 +1,4 @@
-﻿# AIVOA - Round 1 AI Product Engineer Demo Video Walkthrough Guide (5-10 Minutes)
+# AIVOA - Round 1 AI Product Engineer Demo Video Walkthrough Guide (5-10 Minutes)
 
 Use this complete script and step-by-step guide to record your 5–10 minute submission video.
 

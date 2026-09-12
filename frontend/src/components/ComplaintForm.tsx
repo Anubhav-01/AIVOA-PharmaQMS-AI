@@ -1,4 +1,4 @@
-﻿import React from "react";
+import React from "react";
 import { ClipboardCheck, Save, CheckCircle, AlertTriangle } from "lucide-react";
 import { useAppDispatch, useAppSelector } from "../store";
 import { updateFormField, saveComplaintToDb, clearSaveMessage } from "../store/complaintSlice";

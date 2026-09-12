@@ -1,4 +1,4 @@
-﻿import { createSlice, createAsyncThunk, PayloadAction } from "@reduxjs/toolkit";
+import { createSlice, createAsyncThunk, PayloadAction } from "@reduxjs/toolkit";
 
 export interface ExtractedComplaintData {
   product_name: string;
@@ -14,7 +14,7 @@ export interface ExtractedComplaintData {
 
 export interface CompletenessCheck {
   score: number;
-  is_complete: bool;
+  is_complete: boolean;
   missing_fields: string[];
   follow_up_questions: string[];
   completeness_details: string;

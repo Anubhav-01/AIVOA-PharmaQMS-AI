@@ -1,4 +1,4 @@
-﻿import React, { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Database, Filter, ExternalLink, ShieldAlert, CheckCircle, Clock } from "lucide-react";
 import { useAppDispatch, useAppSelector } from "../store";
 import { fetchComplaints } from "../store/complaintSlice";
